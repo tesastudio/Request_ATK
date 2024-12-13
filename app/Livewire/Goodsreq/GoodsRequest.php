@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Livewire\GoodsReq;
+namespace app\Livewire\GoodsReq;
 
-use App\Models\Goods;
-use App\Models\GoodsReqDet;
+use app\Models\Goods;
+use Aap\Models\GoodsReqDet;
 use Auth;
 use Livewire\Component;
 use Livewire\WithPagination;

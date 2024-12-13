@@ -1,14 +1,14 @@
 <?php
 
-namespace App\Livewire\GoodsReq;
+namespace app\Livewire\GoodsReq;
 
-use App\Models\Dept;
-use App\Models\Goods;
-use App\Models\GoodsReq;
-use App\Models\GoodsReqDet;
-use App\Models\Status;
-use App\Models\tracing;
-use App\Models\User;
+use app\Models\Dept;
+use app\Models\Goods;
+use app\Models\GoodsReq;
+use app\Models\GoodsReqDet;
+use app\Models\Status;
+use app\Models\tracing;
+use app\Models\User;
 use Auth;
 use Illuminate\Http\Request;
 use Livewire\Component;

@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Livewire\GoodsReq;
+namespace app\Livewire\GoodsReq;
 
-use App\Models\GoodsReq;
-use App\Models\GoodsReqDet;
+use app\Models\GoodsReq;
+use app\Models\GoodsReqDet;
 use Livewire\Component;
 use Auth;
 

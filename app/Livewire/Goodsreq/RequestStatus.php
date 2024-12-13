@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Livewire\GoodsReq;
+namespace app\Livewire\GoodsReq;
 
 use Livewire\Component;
 
